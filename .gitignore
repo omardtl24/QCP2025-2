@@ -1,5 +1,9 @@
 #Python environment
 venv/
 
-#Protected files password
+#Protected files password and encrypted files
 password.txt
+encrypt.py
+
+#Assignments solutions
+Assigns/*.ipynb
