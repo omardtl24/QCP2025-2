@@ -66,5 +66,5 @@ Thus, Kaku’s role is essential in **framing the public and political discourse
 ## References
 
 - [Michio Kaku – Official Website](https://mkaku.org/)  
-- [Michio Kaku – Blog](https://mkaku.org/homepage/category/blog/)  
-- [Interview with Michio Kaku – Big Think](https://bigthink.com/people/michio-kaku/)  
+- [Michio Kaku – About](https://mkaku.org/home/about)  
+- [Interview with Michio Kaku – Big Think](https://www.youtube.com/watch?v=PYgJkTL5MRg)
