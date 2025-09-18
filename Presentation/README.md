@@ -36,17 +36,17 @@ Although Michio Kaku has not written a book dedicated exclusively to quantum com
 1. **Physics of the Future (2011)**  
    - Explores technologies shaping the 21st century, including quantum computing.  
    - Discusses possible impacts in medicine, energy, and economics.  
-   - [Link](https://www.penguinrandomhouse.com/books/204697/physics-of-the-future-by-michio-kaku/)  
+   - [Link](https://www.brautech.co.za/info/FuturePhysics.pdf)  
 
 2. **The Future of the Mind (2014)**  
    - Focuses on neuroscience and future technologies of the mind.  
    - Mentions quantum computing as a potential enabler of artificial intelligence and brain simulation.  
-   - [Link](https://www.penguinrandomhouse.com/books/223337/the-future-of-the-mind-by-michio-kaku/)  
+   - [Link](https://www.buscalibre.com.co/libro-the-future-of-the-mind-the-scientific-quest-to-understand-enhance-and-empower-the-mind/9780307473349/p/48394224/)  
 
 3. **The Future of Humanity (2018)**  
    - Oriented toward space exploration and humanity’s long-term survival.  
    - Notes how quantum computing and AI could be fundamental technologies for expanding into the cosmos.  
-   - [Link](https://www.penguinrandomhouse.com/books/317236/the-future-of-humanity-by-michio-kaku/)  
+   - [Link](https://www.buscalibre.com.co/libro-el-futuro-de-la-humanidad-the-future-of-humanity/9788499928364/p/50847333)  
 
 In more recent lectures and interviews, Kaku also connects quantum computing to **AI development** and **cybersecurity**.
 
@@ -67,7 +67,4 @@ Thus, Kaku’s role is essential in **framing the public and political discourse
 
 - [Michio Kaku – Official Website](https://mkaku.org/)  
 - [Michio Kaku – Blog](https://mkaku.org/homepage/category/blog/)  
-- [Physics of the Future – Penguin Random House](https://www.penguinrandomhouse.com/books/204697/physics-of-the-future-by-michio-kaku/)  
-- [The Future of the Mind – Penguin Random House](https://www.penguinrandomhouse.com/books/223337/the-future-of-the-mind-by-michio-kaku/)  
-- [The Future of Humanity – Penguin Random House](https://www.penguinrandomhouse.com/books/317236/the-future-of-humanity-by-michio-kaku/)  
 - [Interview with Michio Kaku – Big Think](https://bigthink.com/people/michio-kaku/)  
