@@ -7,3 +7,12 @@ encrypt.py
 
 #Assignments solutions
 Assigns/*.ipynb
+
+#Quices materials
+Quices Study Files/*.ipynb
+
+#Notebook checkpoints
+.ipynb_checkpoints
+
+#PDF files
+*.pdf
