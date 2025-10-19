@@ -16,3 +16,6 @@ Quices Study Files/*.ipynb
 
 #PDF files
 *.pdf
+
+#Session files
+*.pye
