@@ -19,3 +19,6 @@ Quices Study Files/*.ipynb
 
 #Session files
 *.pye
+
+#Qiskit Fest solutions
+Qiskit Fest Hackathon/**/**.ipynb
