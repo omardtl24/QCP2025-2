@@ -6,10 +6,10 @@ password.txt
 encrypt.py
 
 #Assignments solutions
-Assigns/*.ipynb
+Assignments/**
 
 #Quices materials
-Quices Study Files/*.ipynb
+Quices Study Files/**
 
 #Notebook checkpoints
 .ipynb_checkpoints
@@ -21,4 +21,4 @@ Quices Study Files/*.ipynb
 *.pye
 
 #Qiskit Fest solutions
-Qiskit Fest Hackathon/**/**.ipynb
+Qiskit Fest Hackathon/**
