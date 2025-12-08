@@ -20,5 +20,8 @@ Quices Study Files/**
 #Session files
 *.pye
 
+#Python cache files
+**/__pycache__/
+
 #Qiskit Fest solutions
 Qiskit Fest Hackathon/**
